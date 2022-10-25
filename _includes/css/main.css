@@ -190,6 +190,13 @@ section.success {
     color: #{{ site.color.primary }}; 
 }
 
+.title1{
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #fff;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
