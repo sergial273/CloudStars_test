@@ -185,15 +185,6 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
-/*section.success2 {
-    background: #fff;
-    color: #{{ site.color.primary }};
-    /*color: #fff;
-    background: #{{ site.color.primary }};
-    
-}
-*/
-
 .objectives{
     background: #fff;
     color: #{{ site.color.primary }}; 
