@@ -190,7 +190,7 @@ section.success {
     color: #{{ site.color.primary }}; 
 }
 
-.title1{
+#title1{
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
