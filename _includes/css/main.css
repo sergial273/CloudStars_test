@@ -186,7 +186,7 @@ section.success {
 }
 
 section.success2 {
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: #fff;
     color: #{{ site.color.primary }};
     /*color: #fff;
     background: #{{ site.color.primary }};*/
