@@ -185,6 +185,14 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.success2 {
+    background: rgba({{ site.color.primary-rgb }},.9);
+    color: #{{ site.color.primary }};
+    /*color: #fff;
+    background: #{{ site.color.primary }};*/
+    
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
