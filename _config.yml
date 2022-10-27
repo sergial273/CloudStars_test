@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: CloudButton consortium
-  location: Location
+  location: Contact
   social: Around the Web
-  credits: Credits
+  credits: Text
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,11 +52,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Dr. Pedro García López
+  - line: 'E-mail: pedro.garcia@urv.cat'
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'More things to add if needed'
 
 # Build settings
 markdown: kramdown
